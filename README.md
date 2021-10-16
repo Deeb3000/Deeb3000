@@ -2,7 +2,7 @@
 - 👀 I’m interested in Skyrim
 - 🌱 I’m currently learning Python, but I just started learning a few days ago
 - 💞️ I’m looking to collaborate on python or c++ projects
-- 📫 How to reach me discord:𝔇𝔢𝔢𝔟🐺#8572
+- 📫 How to reach me discord: Deeb#6969
 
 <!---
 Deeb3000/Deeb3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
